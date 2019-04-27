@@ -1,2 +1,4 @@
-# eye-alert
-A frictionless safety glasses compliance &amp; redundancy system
+
+<p align="center">
+  <img src="Images/eyealert-logo.png" height="130">
+</p>
